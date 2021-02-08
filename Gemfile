@@ -39,7 +39,7 @@ gem "simple_calendar", "~> 2.0"
 gem 'geocoder'
 gem 'gmaps4rails'
 gem 'underscore-rails'
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'has_scope'
 gem 'cancancan', '~> 2.0'
 gem 'social-share-button'
